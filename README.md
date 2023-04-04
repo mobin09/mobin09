@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mobin Arshad
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java Fulll Stack
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Java based project
 - 📫 reach to me: mobink09@gmail.com
 
 <!---
