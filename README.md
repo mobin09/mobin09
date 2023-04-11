@@ -1,3 +1,9 @@
+<h1 align="left">Hi 👋, I'm Mobin Arshad</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mobinarshad&label=Profile%20views&color=0e75b6&style=flat" alt="Mobin Arshad" /> </p>
+
+
+
+
 - 👋 Hi, I’m Mobin Arshad
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java Fulll Stack
