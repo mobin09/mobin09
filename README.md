@@ -14,10 +14,6 @@
 <a href="https://www.linkedin.com/in/mobin-arshad-5ba348166/" target="blank"><img align="center" src="https://mobinarshad.github.io/portfolio/img/me.svg" alt="Mobin Arshad" height="50" width="60" /></a>
 
   
-<a href="https://github.com/mobin09" target="blank"><img align="right" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="https://www.hackerrank.com/jenadeba07?hr_r=1" height="300" width="400" /></a>
-</p>
-  
-  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mobin09&show_icons=true&locale=en&layout=compact" alt="Mobin Arshad" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mobin09&show_icons=true&locale=en" alt="Mobin Arshad" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mobin09&" alt="Mobin Arshad" /></p>
