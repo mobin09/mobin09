@@ -2,13 +2,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobinarshad&label=Profile%20views&color=0e75b6&style=flat" alt="Mobin Arshad" /> </p>
 
 
-
-
-- 👋 Hi, I’m Mobin Arshad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java Fulll Stack
-- 💞️ I’m looking to collaborate on Java based project
-- 📫 reach to me: mobink09@gmail.com
+- 🔭 I’m currently working on [SBBLOS] (Servosys Solution -> FinTech)
+- 🌱 I’m currently learning **Microservices, HLD, LLD & Design Patterns**
+- 👨‍💻 All of my projects are available at [https://github.com/mobin09](https://github.com/mobin09)
+- 💬 Ask me about **Java Stack, , React, JavaScript, DBMS, Microservices, Spring**
+- 📫 How to reach me **mobink09@gmail.com**
+- 📄 Know about my experiences [https://www.linkedin.com/in/mobin-arshad-5ba348166/](https://www.linkedin.com/in/mobin-arshad-5ba348166/)
 
 <!---
 mobin09/mobin09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
