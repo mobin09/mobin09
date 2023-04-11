@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mobin-arshad-5ba348166/" target="blank"><img align="center" src="https://mobinarshad.github.io/portfolio/img/me.svg" alt="Mobin Arshad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mobin-arshad-5ba348166/" target="blank"><img align="center" src="https://mobinarshad.github.io/portfolio/img/me.svg" alt="Mobin Arshad" height="50" width="60" /></a>
 
 
 <!---
