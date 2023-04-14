@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobin09&label=Profile%20views&color=0e75b6&style=flat" alt="Mobin Arshad" /> </p>
 
 
-- 🔭 I’m currently working on [SBBLOS] (Servosys Solution -> FinTech)
+- 🔭 I’m currently working on [SBBLOS] (Servosys Solution -> Fintech)
 - 🌱 I’m currently learning **Microservices, HLD, LLD & Design Patterns**
 - 👨‍💻 All of my projects are available at [https://github.com/mobin09](https://github.com/mobin09)
 - 💬 Ask me about **Java Stack, React, JavaScript, DBMS, Microservices, Spring**
@@ -23,7 +23,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-yjemi&psig=AOvVaw16z8l1Hdc5YOINyN2Xwqb9&ust=1681324448775000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDF0ua7ov4CFQAAAAAdAAAAABAE" alt="java" width="40" height="40"/>
+        <img src="replace this with java url" alt="java" width="40" height="40"/>
     </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
