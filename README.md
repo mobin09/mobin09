@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [SBBLOS] (Servosys Solution -> Fintech)
 - 🌱 I’m currently learning **Microservices, HLD, LLD & Design Patterns**
 - 👨‍💻 All of my projects are available at [https://github.com/mobin09](https://github.com/mobin09)
-- 💬 Ask me about **Java Stack, React, JavaScript, DBMS, Microservices, Spring**
+- 💬 Ask me about **Java Stack, React, JavaScript, DBMS, Microservices, Spring, MySql
 - 📫 How to reach me **mobink09@gmail.com**
 - 📄 Know about my  <a href ="https://www.linkedin.com/in/mobin-arshad-5ba348166/" style = "background-color: #FF0000;">Experiences</a>
 
