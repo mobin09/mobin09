@@ -25,7 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="replace this with java url" alt="java" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="java" width="40" height="40"/>
     </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
